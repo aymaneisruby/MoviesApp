@@ -18,7 +18,7 @@ As the data provider, we utilize TMDb's REST API endpoints to fetch information 
   - API Documentation: [Get Movie Details - TMDb](https://developers.themoviedb.org/3/movies/get-movie-details)
 
 ## Notes
-- **API Key**: To authenticate requests, the provided API key `c9856d0cb57c3f14bf75bdc6c063b8f3` should be used.
+- **API Key**: To authenticate requests, an API key should be used.
 - **Image Path**: Refer to TMDb's documentation to obtain the full poster image path of a movie: [Getting Started - Images](https://developers.themoviedb.org/3/getting-started/images)
 
 ## Implementation
