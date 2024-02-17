@@ -31,3 +31,21 @@ While a reference UI image is provided, developers have the flexibility to imple
 - **Language**: The application should be written in Kotlin, adhering to best practices and Kotlin conventions.
 
 Thank you for considering our Trending Movies Android App project.
+
+## ScreenShots 
+
+![1](https://github.com/aymaneisruby/MoviesApp/assets/105078337/03a34afd-6b63-48df-90bc-0aca1c3874fc)
+
+![2](https://github.com/aymaneisruby/MoviesApp/assets/105078337/83114df3-ce76-44fd-9bde-bbef6f716385)
+
+![3](https://github.com/aymaneisruby/MoviesApp/assets/105078337/1e7dfa7f-fe6d-46df-b61b-421d028ef3c0)
+
+![4](https://github.com/aymaneisruby/MoviesApp/assets/105078337/4812cefe-6197-4011-8bd8-49fc31c82657)
+
+![5](https://github.com/aymaneisruby/MoviesApp/assets/105078337/5c2cb328-d0bb-46b1-8ded-2ea8db4a0c75)
+
+![6](https://github.com/aymaneisruby/MoviesApp/assets/105078337/386bc674-d6a6-4fe5-8250-2a138aa5257c)
+
+![7](https://github.com/aymaneisruby/MoviesApp/assets/105078337/2aceca8d-16ba-4391-8a92-6e43acb75128)
+
+
